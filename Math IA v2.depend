@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513901189 source:c:\users\svark\desktop\c++\math ia v2\main.cpp
+	<iostream>
+	<fstream>
+
